@@ -19,7 +19,7 @@ Interface Ethernet0/1
 ![Network Topology](4-ACL-BLOCK-VLANS.png)
 
 ## 🧬 Switch Config VLANs + Trunk:
-![Network Topology](5-VLAN,CREATION.TRUNKING MODE.png)
+![Network Topology](5-VLAN,CREATION.TRUNKING%20MODE.png)
 Interfaces VLAN 
 ![Network Topology](6-INTERFACES-ACCESS-VLANS.png)
 
