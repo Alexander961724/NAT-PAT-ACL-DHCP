@@ -12,7 +12,7 @@ Interface Ethernet0/0
 Interface Ethernet0/1 
 ![Network Topology](2-ETH0-1-NOSHUT.png) 
 
-## ✅ NAT Overload (PAT):
+## ✅ NAT Overload PAT:
 ![Network Topology](3-NAT-OVERLOAD.png)
 
 ##🖲️ ACL bloquea tráfico entre VLANs pero permitir acceso a Internet:
