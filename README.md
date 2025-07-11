@@ -15,7 +15,7 @@ Interface Ethernet0/1
 ## ✅ NAT Overload PAT:
 ![Network Topology](3-NAT-OVERLOAD.png)
 
-##🖲️ ACL bloquea tráfico entre VLANs pero permitir acceso a Internet:
+## 🖲️ ACL bloquea tráfico entre VLANs pero permitir acceso a Internet:
 ![Network Topology](4-ACL-BLOCK-VLANS.png)
 
 ## 🧬 Switch Config VLANs + Trunk:
