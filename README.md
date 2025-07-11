@@ -23,3 +23,20 @@ Interface Ethernet0/1
 Interfaces VLAN 
 ![Network Topology](6-INTERFACES-ACCESS-VLANS.png)
 
+## 📦 Ping from Host1:
+![Network Topology](7-DESKTOP1-PINGS.png) 
+
+## 🕒 Ping from Host2 :
+Unable to get the Gateway, I also did an ip route and everything seem normal.
+![Network Topology](8-Unable-to-reach-gateway.png)
+
+## 👨‍💻 running-config on R1:
+making sure configuration was properly error was found.
+![Network Topology](9-ERROR-FOUND.png)
+
+## 🛠️ Fixing missconfiguration:
+![Network Topology](10-SOLIUTION.png)
+
+## ✅ It worked ✅ 
+![Network Topology](11-REASURING.png)
+
